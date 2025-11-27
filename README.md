@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+🚀 Highly Motivated Communications & Electronics Engineer 🎓 GPA: 3.58/4.0 (Excellent) | 📍 Detail-Oriented & Growth-Focused<br><br>Passionate about bridging the gap between hardware, connectivity, and intelligent software. With a strong academic foundation and diverse technical skills, I am eager to contribute to cutting-edge innovations.<br><br>🛠️ Core Expertise & Technical Skills:<br><br>📡 Telecommunications: Extensive training in mobile technologies (GSM, UMTS, LTE, 5G NR) with hands-on experience in RF planning, drive testing, and post-processing (TEMS Investigation).<br><br>🌐 Networking: CCNA Certified with solid knowledge of switching, routing, wireless principles, and network automation.<br><br>👨‍🏫 Academic Leadership: Experienced assistant teacher specializing in e-learning systems, academic advising, and Education Quality Assurance.<br><br>📲 Mobile Development: Junior Flutter developer proficient in Dart & VS Code for cross-platform apps.<br><br>🤖 IoT & Embedded Systems: Designed smart solutions using ESP32 & Arduino, integrating sensors with Firebase and FlutterFlow interfaces.<br><br>🧠 AI & Machine Learning: Certified in HCIA-AI and ML (Sprints), skilled in applying intelligent systems design.<br><br>💻 Tech Stack: Python 🐍 | C++ ⚙️ | Dart 🎯 | MATLAB/Simulink 📊 | AutoCAD/Revit 🏗️<br><br>🤝 Soft Skills: Problem-Solving, Effective Communication, & Continuous Learning.
 
-<!--
-**mostafa-khalid208/mostafa-khalid208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Mostafa.Khalid208) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mostafa.khalid208) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafa-khalid208) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mostafa_Kh208) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@MostafaKhalid208) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mostafa.khalid.sallam208@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mostafa-khalid208&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mostafa-khalid208&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-khalid208&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mostafa-khalid208&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=mostafa-khalid208&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
